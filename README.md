@@ -8,5 +8,5 @@
 
 * Download Code
 * cd ML_Preprocessor_CLI/
-* Now run, python3 main.py [Dataset's Path]
+* Now run, python main.py [Dataset's Path]
 * Ex: python main.py dataset.csv
